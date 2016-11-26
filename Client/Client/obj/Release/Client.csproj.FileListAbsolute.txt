@@ -1,7 +1,0 @@
-C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\bin\Release\Client.exe
-C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\bin\Release\Client.pdb
-C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\obj\Release\Client.frmMain.resources
-C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\obj\Release\Client.Properties.Resources.resources
-C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
-C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\obj\Release\Client.exe
-C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\obj\Release\Client.pdb
