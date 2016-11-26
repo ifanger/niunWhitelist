@@ -41,4 +41,4 @@ MAS TENHA CUIDADO! Se cair em mãos erradas, qualquer um poderá editar a senha,
 ## Downloads
 Se você não possui condições de compilar o aplicativo, faça o download da última versão estável:
 
-[Cliente](https://github.com/Niunzin/niunWhitelist/tree/master/Downloads/Client) | [Servidor](https://github.com/Niunzin/niunWhitelist/tree/master/Downloads/Server)
+[Cliente](https://github.com/Niunzin/niunWhitelist/tree/master/Downloads/Client) | [Servidor](https://github.com/Niunzin/niunWhitelist/tree/master/Downloads/Server) | [Conversor](https://github.com/Niunzin/niunWhitelist/blob/master/Tools/Conversor.rar)
