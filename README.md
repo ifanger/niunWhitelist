@@ -37,7 +37,7 @@ Você apenas precisa saber ao IP no qual o servidor está rodando, a porta e a s
 Após a configuração do mesmo, você já pode distribuir o mesmo para seus administradores.
 MAS TENHA CUIDADO! Se cair em mãos erradas, qualquer um poderá editar a senha, e consequentemente, você deverá imediatamente trocar a senha do seu servidor nWL.
 
-### Downloads
+## Downloads
 Se você não possui condições de compilar o aplicativo, faça o download da última versão estável:
 
 [Cliente](https://github.com/Niunzin/niunWhitelist/tree/master/Downloads/Client) | [Servidor](https://github.com/Niunzin/niunWhitelist/tree/master/Downloads/Server)
