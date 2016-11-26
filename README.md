@@ -1,4 +1,5 @@
 # niunWhitelist
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=C67HPRXBWNM7Q&lc=BR&item_name=Niunzin&item_number=DONATE_NIUN&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 ### Introdução
 niunWhitelist (ou simplesmente nWL) é um projeto gratuito e de código aberto composto por dois softwares, que tem como objetivo fornecer facilidade na hora de adicionar jogadores na whitelist do seu servidor. A instalação do mesmo pode não ser tão simples, pois varia de servidor para servidor, mas vou tentar lhe explicar da maiera mais simples.
 O mesmo já realiza conversão de UID para GUID no próprio client, tornando a tarefa muuuito simples.
