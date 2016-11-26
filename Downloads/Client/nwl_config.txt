@@ -1,0 +1,4 @@
+# Configurações do servidor
+ip=127.0.0.1
+port=2309
+key=

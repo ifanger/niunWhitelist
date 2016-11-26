@@ -1,0 +1,13 @@
+# Configurações do servidor
+port=2309
+
+# Configurações do nWL
+# Key deve ser a chave de segurança do servidor.
+# Preze pela sua segurança, use uma senha difícil.
+key=PLEASE_CHANGE_ME_123
+
+# Arquivo de whitelist
+file=WhiteList.txt
+
+# Arquivo bat (executado para reiniciar o BEC)
+bat=reload.bat

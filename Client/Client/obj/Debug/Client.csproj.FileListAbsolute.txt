@@ -1,0 +1,8 @@
+C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\bin\Debug\Client.exe
+C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\bin\Debug\Client.pdb
+C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\obj\Debug\Client.exe
+C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\obj\Debug\Client.pdb
+C:\Users\PC10\Documents\Visual Studio 2015\Projects\niunWhitelist\Client\Client\obj\Debug\Client.frmMain.resources
