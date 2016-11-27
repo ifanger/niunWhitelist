@@ -38,6 +38,16 @@ Você apenas precisa saber ao IP no qual o servidor está rodando, a porta e a s
 Após a configuração do mesmo, você já pode distribuir o mesmo para seus administradores.
 MAS TENHA CUIDADO! Se cair em mãos erradas, qualquer um poderá editar a senha, e consequentemente, você deverá imediatamente trocar a senha do seu servidor nWL.
 
+## Conversor
+### Quando usar?
+Primeiramente, em servidores de Altis Life ou adjacentes.
+O conversor foi feito para ser utilizado em uma única ocasião: quando você está implementando o sistema de whitelist num servidor que já está rodando. Ele irá pegar todos os usuários que já conectaram-se ao servidor através de uma conexão MySQL direta com o banco de dados (por isso recomendamos rodar o mesmo diretamente na máquina hospedada, e criar um usuário MySQL exclusivo para o acesso à tabela, liberando apenas o privilégio SELECT), que tem como objetivo listar todos os usuários (e seus pseudônimos) juntamente com a GUID (ele faz a conversão de UID para GUID automaticamente), trazendo-o num formato pronto para a leitura do BEC.
+```GUID NOME, PSEUDÔNIMOS```
+
+**Nota:** Esse recurso só funciona para servidores de Altis Life, ou qualquer outro que possua um banco de dados MySQL com a tabela ```players``` e as colunas ```UID``` e ```aliases```.
+
+**Nota²:** O conversor não possui código aberto (ainda) mas você pode ter acesso ao mesmo utilizando técnicas de engenharia reversa.
+
 ## Downloads
 Se você não possui condições de compilar o aplicativo, faça o download da última versão estável:
 
