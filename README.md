@@ -56,7 +56,7 @@ O conversor foi feito para ser utilizado em uma única ocasião: quando você es
 
     GUID NOME, PSEUDÔNIMOS
 
-**Nota:** Esse recurso só funciona para servidores de Altis Life, ou qualquer outro que possua um banco de dados MySQL com a tabela ```players``` e as colunas ```UID``` e ```aliases```.
+**Nota:** Esse recurso só funciona para servidores de Altis Life, ou qualquer outro que possua um banco de dados MySQL com a tabela ```players``` e as colunas ```playerid``` e ```aliases```.
 
 **Nota²:** O conversor não possui código aberto (ainda) mas você pode ter acesso ao mesmo utilizando técnicas de engenharia reversa.
 
